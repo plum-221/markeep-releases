@@ -1,6 +1,6 @@
 # Markeep 发布仓库
 
-**不改你文件的 Markdown 编辑器** —— 免费，功能对标 Typora 的 Windows 桌面应用。
+**不改你文件的 Markdown 编辑器** —— 免费、所见即所得的 Windows 桌面应用。
 
 ### 👉 官网下载：https://markeep.pages.dev
 
