@@ -22,6 +22,36 @@
         "body": "Open, new and recent files are all on the first screen. Shortcuts and Markdown syntax live under the shortcut sheet. You can also drag files straight into the window.",
         "linkLabel": "See what changed"
       }
+    },
+    {
+      "id": "2026-08-19-alethon",
+      "date": "",
+      "link": "https://apps.microsoft.com/detail/9N13GZV3X3VV",
+      "zh": {
+        "title": "另一个小工具：Alethon",
+        "body": "把视频或图片里的水印、字幕、台标整块重画掉——不是打码抹糊，是让模型把被挡住的画面补出来。全程在你自己电脑上跑。补出来的像素是算出来的，不是原片里真有的。",
+        "linkLabel": "去商店看看"
+      },
+      "en": {
+        "title": "Another small tool: Alethon",
+        "body": "Removes watermarks, subtitles and logos from video and images by repainting the area, not blurring it. Runs on your own machine. The repainted pixels are generated, not what was really behind.",
+        "linkLabel": "View on the Store"
+      }
+    },
+    {
+      "id": "2026-08-19-fullbleed",
+      "date": "",
+      "link": "https://apps.microsoft.com/detail/9N55GTJQ83RL",
+      "zh": {
+        "title": "另一个小工具：Full Bleed 漫画阅读器",
+        "body": "拖进来就能看，书架记得你读到第几页。不联网、不要账号、不收集任何数据——和 Markeep 同一条规矩。",
+        "linkLabel": "去商店看看"
+      },
+      "en": {
+        "title": "Another small tool: Full Bleed",
+        "body": "A local comic reader. Drag a book in and read; the shelf remembers your page. No account, no network, no data collected — the same rule as Markeep.",
+        "linkLabel": "View on the Store"
+      }
     }
   ]
 }
