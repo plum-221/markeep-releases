@@ -1,19 +1,26 @@
 {
-  "_comment": "Markeep 首页公告栏的内容源。改完直接提交到 main 即可生效，用户下次打开首页就能看到，不需要发新版本。items 按顺序显示，最多取前 3 条；每条要有 zh 和 en 两份文案（缺一种会自动回落到另一种）。link 只支持 https。",
+  "_说明": "Markeep 首页公告栏的内容源。改完提交到 main 即刻生效，用户下次打开首页就能看到，不需要发新版本。",
+  "_字段": {
+    "id": "任意唯一字符串，只用于区分条目",
+    "date": "显示在标题右侧的日期，留空则不显示",
+    "link": "只支持 https；点了用系统浏览器打开",
+    "zh / en": "两种语言各一份 title / body / linkLabel；只写一种时另一种语言的用户会自动看到这一份"
+  },
+  "_上限": "最多显示前 3 条；标题 80 字、正文 220 字，超出会被截断",
   "items": [
     {
       "id": "2026-08-19-v121",
-      "date": "2026-08-19",
+      "date": "08-19",
       "link": "https://markeep.pages.dev",
       "zh": {
-        "title": "启动首页做好了",
-        "body": "打开 / 新建 / 最近文件都摆在第一屏，快捷键与 Markdown 写法收在「快捷键速查」里。文件也可以直接拖进窗口。",
-        "linkLabel": "去官网看看"
+        "title": "1.2.1：启动首页做好了",
+        "body": "打开 / 新建 / 最近文件都在第一屏，快捷键与 Markdown 写法收在「快捷键速查」里。文件也可以直接拖进窗口打开。",
+        "linkLabel": "看看更新了什么"
       },
       "en": {
-        "title": "The new start page is here",
+        "title": "1.2.1: the new start page",
         "body": "Open, new and recent files are all on the first screen. Shortcuts and Markdown syntax live under the shortcut sheet. You can also drag files straight into the window.",
-        "linkLabel": "Visit the site"
+        "linkLabel": "See what changed"
       }
     }
   ]
