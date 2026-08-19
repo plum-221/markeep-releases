@@ -1,0 +1,20 @@
+{
+  "_comment": "Markeep 首页公告栏的内容源。改完直接提交到 main 即可生效，用户下次打开首页就能看到，不需要发新版本。items 按顺序显示，最多取前 3 条；每条要有 zh 和 en 两份文案（缺一种会自动回落到另一种）。link 只支持 https。",
+  "items": [
+    {
+      "id": "2026-08-19-v121",
+      "date": "2026-08-19",
+      "link": "https://markeep.pages.dev",
+      "zh": {
+        "title": "启动首页做好了",
+        "body": "打开 / 新建 / 最近文件都摆在第一屏，快捷键与 Markdown 写法收在「快捷键速查」里。文件也可以直接拖进窗口。",
+        "linkLabel": "去官网看看"
+      },
+      "en": {
+        "title": "The new start page is here",
+        "body": "Open, new and recent files are all on the first screen. Shortcuts and Markdown syntax live under the shortcut sheet. You can also drag files straight into the window.",
+        "linkLabel": "Visit the site"
+      }
+    }
+  ]
+}
