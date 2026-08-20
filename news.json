@@ -9,17 +9,17 @@
   "_上限": "最多显示前 3 条；标题 80 字、正文 220 字，超出会被截断",
   "items": [
     {
-      "id": "2026-08-19-v121",
-      "date": "08-19",
+      "id": "2026-08-20-v123",
+      "date": "08-20",
       "link": "https://markeep.pages.dev",
       "zh": {
-        "title": "1.2.1：启动首页做好了",
-        "body": "打开 / 新建 / 最近文件都在第一屏，快捷键与 Markdown 写法收在「快捷键速查」里。文件也可以直接拖进窗口打开。",
+        "title": "1.2.3：斜杠菜单换新了",
+        "body": "空行打 / 弹出的命令菜单，现在和左边 ＋ 号是同一套，右边还标着快捷键。打 /h1 直接筛出「一级标题」，用 ↑↓ 选、回车确认。另外正则替换里的 $1 终于会被替换成匹配到的内容了。",
         "linkLabel": "看看更新了什么"
       },
       "en": {
-        "title": "1.2.1: the new start page",
-        "body": "Open, new and recent files are all on the first screen. Shortcuts and Markdown syntax live under the shortcut sheet. You can also drag files straight into the window.",
+        "title": "1.2.3: the new slash menu",
+        "body": "The command menu you get by typing / on an empty line now matches the one behind the + button, shortcuts included. Type /h1 to filter down to Heading 1, then pick with the arrow keys. Regex replacement also honours $1 at last.",
         "linkLabel": "See what changed"
       }
     },
