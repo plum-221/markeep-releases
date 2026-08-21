@@ -9,6 +9,21 @@
   "_上限": "最多显示前 3 条；标题 80 字、正文 220 字，超出会被截断",
   "items": [
     {
+      "id": "2026-08-21-v124",
+      "date": "08-21",
+      "link": "https://markeep.pages.dev",
+      "zh": {
+        "title": "1.2.4：换主题，字体终于也跟着换了",
+        "body": "「书页」配 Georgia 衬线、「素白」配 Palatino，本来就是这么设计的，但从 1.1.0 起选了之后字体一直纹丝不动，只有颜色在变。现在修好了，升级后自动生效、不用去设置里动任何东西。出厂的字体字号配色一个都没变。",
+        "linkLabel": "看看更新了什么"
+      },
+      "en": {
+        "title": "1.2.4: themes finally change the font too",
+        "body": "Book was meant to set Georgia, Plain to set Palatino. Since 1.1.0 picking either left the typeface untouched and only swapped colours. Fixed, and it applies automatically after you update. Nothing about the out-of-the-box look changed.",
+        "linkLabel": "See what changed"
+      }
+    },
+    {
       "id": "2026-08-20-v123",
       "date": "08-20",
       "link": "https://markeep.pages.dev",
@@ -35,21 +50,6 @@
       "en": {
         "title": "Another small tool: Alethon",
         "body": "Removes watermarks, subtitles and logos from video and images by repainting the area, not blurring it. Runs on your own machine. The repainted pixels are generated, not what was really behind.",
-        "linkLabel": "View on the Store"
-      }
-    },
-    {
-      "id": "2026-08-19-fullbleed",
-      "date": "",
-      "link": "https://apps.microsoft.com/detail/9N55GTJQ83RL",
-      "zh": {
-        "title": "另一个小工具：Full Bleed 漫画阅读器",
-        "body": "拖进来就能看，书架记得你读到第几页。不联网、不要账号、不收集任何数据——和 Markeep 同一条规矩。",
-        "linkLabel": "去商店看看"
-      },
-      "en": {
-        "title": "Another small tool: Full Bleed",
-        "body": "A local comic reader. Drag a book in and read; the shelf remembers your page. No account, no network, no data collected — the same rule as Markeep.",
         "linkLabel": "View on the Store"
       }
     }
